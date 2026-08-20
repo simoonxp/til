@@ -1,0 +1,27 @@
+name: Daily Challenge
+
+on:
+  schedule:
+    - cron: "0 8 * * *"
+  workflow_dispatch:
+
+jobs:
+  commit:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Configurar Git
+        run: |
+          git config user.email "simonhot.com@gmail.com"
+          git config user.name "Felipe Simon"
+
+      - name: Commit diario
+        run: |
+          DATE=$(TZ="America/Sao_Paulo" date "+%Y-%m-%d %H:%M:%S")
+          echo "Atualizado em: $DATE" >> log.txt
+          git add log.txt
+          git commit -m "Daily update - $(TZ=America/Sao_Paulo date +%Y-%m-%d)"
+          git push
