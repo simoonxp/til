@@ -32,6 +32,7 @@ Inspirado no conceito **TIL (Today I Learned)** popular na comunidade dev.
 
 | Data | Categoria | Aprendi |
 |---|---|---|
+| [2026-08-21](2026-08-21/til.md) | 📊 Estatística | Tabela de Distribuição de Frequências |
 | [2026-08-20](2026-08-20/til.md) | 🎤 Carreira | Pitch · Entrevistas · Como convencer e ser ouvido |
 | [2026-08-19](2026-08-19/til.md) | 🏢 Carreira | Workshop Integrativo 36 — Feira de Estágios USP |
 | [2026-08-18](2026-08-18/til.md) | 🗄️ BD2 | Locks S/X · 2PL · 2PC · Replicação Master-Slave · Masterless |
