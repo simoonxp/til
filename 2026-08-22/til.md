@@ -13,11 +13,10 @@
 inteiro = 10
 flutuante = 3.14
 texto = "Felipe"
-booleano = True
 lista = [1, 2, 3]
-dicionario = {"nome": "Felipe", "idade": 19}
-tupla = (1, 2, 3)          # imutável
-conjunto = {1, 2, 3}       # sem duplicatas
+dicionario = {"nome": "Felipe"}
+tupla = (1, 2, 3)       # imutável
+conjunto = {1, 2, 3}    # sem duplicatas
 
 # Funções
 def saudacao(nome):
@@ -48,10 +47,6 @@ def contar():
     yield 1
     yield 2
     yield 3
-
-# Context managers
-with open("arquivo.txt") as f:
-    conteudo = f.read()
 
 # *args e **kwargs
 def func(*args, **kwargs):
