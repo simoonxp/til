@@ -14,12 +14,4 @@ Junji Ito é conhecido por explorar medos profundos e incomuns da psique humana.
 
 ---
 
-### Por que ler mangá importa
-
-- Desenvolve leitura visual e interpretação de narrativas não-lineares
-- Expande o vocabulário e a compreensão cultural japonesa
-- Junji Ito é referência mundial em narrativa visual de horror
-
----
-
 > *"O que nos assombra mais não é o desconhecido — é o que vemos em nós mesmos."*
