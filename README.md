@@ -32,6 +32,7 @@ Inspirado no conceito **TIL (Today I Learned)** popular na comunidade dev.
 
 | Data | Categoria | Aprendi |
 |---|---|---|
+| [2026-08-27](2026-08-27/til.md) | 💼 Carreira | Desenvolvimento de case para vaga de estágio |
 | [2026-08-25](2026-08-25/til.md) | 📊 Carreira | Relatório e insights para estágio |
 | [2026-08-24](2026-08-24/til.md) | 🐍 Python | Estrutura de Dados · Busca e Ordenação |
 | [2026-08-23](2026-08-23/til.md) | 📚 Leitura | Junji Ito — Dismorfia (cont.) |
