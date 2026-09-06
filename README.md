@@ -32,7 +32,9 @@ Inspirado no conceito **TIL (Today I Learned)** popular na comunidade dev.
 
 | Data | Categoria | Aprendi |
 |---|---|---|
+| [2026-09-03](2026-09-03/til.md) | 📚 Leitura | Junji Ito |
 | [2026-09-02](2026-09-02/til.md) | 💼 Carreira | Preparação e apresentação do case |
+| [2026-09-01](2026-09-01/til.md) | 🤝 Carreira | Entrevista de estágio — Automob |
 | [2026-08-30](2026-08-30/til.md) | 📚 Faculdade | Planejamento de projeto em grupo (dia 2) |
 | [2026-08-29](2026-08-29/til.md) | 📚 Faculdade | Planejamento de projeto em grupo |
 | [2026-08-28](2026-08-28/til.md) | 📚 Faculdade | Projeto Integrador — alinhamento com o grupo |
