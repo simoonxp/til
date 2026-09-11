@@ -32,6 +32,12 @@ Inspirado no conceito **TIL (Today I Learned)** popular na comunidade dev.
 
 | Data | Categoria | Aprendi |
 |---|---|---|
+| [2026-09-10](2026-09-10/til.md) | 📚 Leitura | Memórias do Subolo — Dostoievski |
+| [2026-09-09](2026-09-09/til.md) | 🐍 Python | Estudo e prática (dia 3) |
+| [2026-09-08](2026-09-08/til.md) | 🐍 Python | Estudo e prática (dia 2) |
+| [2026-09-07](2026-09-07/til.md) | 🐍 Python | Estudo e prática |
+| [2026-09-06](2026-09-06/til.md) | 🗄️ SQL | Estudo e prática (dia 2) |
+| [2026-09-05](2026-09-05/til.md) | 🗄️ SQL | Estudo e prática |
 | [2026-09-04](2026-09-04/til.md) | 📊 Matemática | Estatística e Probabilidade |
 | [2026-09-03](2026-09-03/til.md) | 📚 Leitura | Junji Ito |
 | [2026-09-02](2026-09-02/til.md) | 💼 Carreira | Preparação e apresentação do case |
