@@ -32,6 +32,8 @@ Inspirado no conceito **TIL (Today I Learned)** popular na comunidade dev.
 
 | Data | Categoria | Aprendi |
 |---|---|---|
+| [2026-09-18](2026-09-18/til.md) | 📊 Carreira | Case analítico — Projeção de mercado e estratégia |
+| [2026-09-17](2026-09-17/til.md) | 🐍 Python | Pilha (Stack) e Estrutura de Dados |
 | [2026-09-10](2026-09-10/til.md) | 📚 Leitura | Memórias do Subolo — Dostoievski |
 | [2026-09-09](2026-09-09/til.md) | 🐍 Python | Estudo e prática (dia 3) |
 | [2026-09-08](2026-09-08/til.md) | 🐍 Python | Estudo e prática (dia 2) |
