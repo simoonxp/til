@@ -34,6 +34,15 @@ Inspirado no conceito **TIL (Today I Learned)** popular na comunidade dev.
 |---|---|---|
 | [2026-09-18](2026-09-18/til.md) | 📊 Carreira | Case analítico — Projeção de mercado e estratégia |
 | [2026-09-17](2026-09-17/til.md) | 🐍 Python | Pilha (Stack) e Estrutura de Dados |
+| [2026-09-19](2026-09-19/til.md) | 🐍 Python | Estrutura de Dados e Pilhas (aprofundamento) |
+| [2026-09-18](2026-09-18/til.md) | 📊 Carreira | Case analítico — Projeção de mercado |
+| [2026-09-17](2026-09-17/til.md) | 🐍 Python | Pilha (Stack) e Estrutura de Dados |
+| [2026-09-16](2026-09-16/til.md) | 📚 Leitura | Memórias do Subsolo — Dostoievski (cont.) |
+| [2026-09-15](2026-09-15/til.md) | 🍃 NoSQL | MongoDB — dia 2 |
+| [2026-09-14](2026-09-14/til.md) | 🍃 NoSQL | MongoDB — dia 1 |
+| [2026-09-13](2026-09-13/til.md) | 📊 Matemática | Estatística e Probabilidade (dia 3) |
+| [2026-09-12](2026-09-12/til.md) | 📊 Matemática | Estatística e Probabilidade (dia 2) |
+| [2026-09-11](2026-09-11/til.md) | 📊 Matemática | Estatística e Probabilidade |
 | [2026-09-10](2026-09-10/til.md) | 📚 Leitura | Memórias do Subolo — Dostoievski |
 | [2026-09-09](2026-09-09/til.md) | 🐍 Python | Estudo e prática (dia 3) |
 | [2026-09-08](2026-09-08/til.md) | 🐍 Python | Estudo e prática (dia 2) |
