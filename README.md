@@ -13,7 +13,7 @@
 
 Repositório de aprendizado diário. Todo dia anoto **uma coisa nova** que aprendi — pode ser sobre Python, SQL, Power BI, Git, lógica, carreira ou qualquer coisa de tecnologia.
 
-Inspirado no conceito **TIL (Today I Learned)** popular na comunidade dev.
+Inspirado no conceito: **TIL (Today I Learned)** popular na comunidade dev.
 
 ---
 
